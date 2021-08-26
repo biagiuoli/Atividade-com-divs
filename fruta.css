@@ -1,0 +1,33 @@
+body {
+	background-color: #FFBF00;
+}
+
+#coluna1{
+background-color:#FFA500; /*cor de fundo*/
+width: 260px; /*largura*/
+height: 360px; /*altura*/
+float: left;/*faz alinhamento*/
+margin: 5px; /*define a margem*/
+padding:25px; /*define o distanciamento dos elementos*/
+border: solid 5px #FFFFF0; /*aplica a borde*/
+}
+
+#coluna2{
+background-color:#FFA500; /*cor de fundo*/
+width: 260px; /*largura*/
+height: 360px; /*altura*/
+float: left;/*faz alinhamento*/
+margin: 5px; /*define a margem*/
+padding: 25px; /*define o distanciamento dos elementos*/
+border: solid 5px #FFFFF0; /*aplica a borde*/
+}
+
+#coluna3{
+background-color:#FFA500; /*cor de fundo*/
+width: 625px; /*largura*/
+height: 360px; /*altura*/
+float: right;/*faz alinhamento*/
+margin: 5px; /*define a margem*/
+padding:25px; /*define o distanciamento dos elementos*/
+border: solid 5px #FFFFF0; /*aplica a borde*/
+}
